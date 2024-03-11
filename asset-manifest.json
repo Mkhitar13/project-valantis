@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Mkhitar13/project-valantis.github.io/static/js/main.1458e739.js",
-    "index.html": "/Mkhitar13/project-valantis.github.io/index.html",
-    "main.1458e739.js.map": "/Mkhitar13/project-valantis.github.io/static/js/main.1458e739.js.map"
+    "main.js": "/project-valantis/static/js/main.1458e739.js",
+    "index.html": "/project-valantis/index.html",
+    "main.1458e739.js.map": "/project-valantis/static/js/main.1458e739.js.map"
   },
   "entrypoints": [
     "static/js/main.1458e739.js"
